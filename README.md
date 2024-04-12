@@ -2,7 +2,7 @@
 <h1 align="center">🎵 𝕄𝕚𝕤𝕒 𝕏 𝕞𝕦𝕤𝕚𝕔 ♪ 🎵</h1>
 
 <p align="center">
-  <img src="https://graph.org/file/934c8d33d21e03ac3c901.jpg" alt="  𝕄𝕚𝕤𝕒 𝕏 𝕞𝕦𝕤𝕚𝕔 ♪  Logo" width="600" height="150">
+  <img src="https://graph.org/file/934c8d33d21e03ac3c901.jpg" alt="  𝕄𝕚𝕤𝕒 𝕏 𝕞𝕦𝕤𝕚𝕔 ♪  Logo" width="600" height="700">
 </p>
 
 <p align="center">
